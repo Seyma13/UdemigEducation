@@ -11,7 +11,7 @@ Bu proje, öğrencilerin ve eğitmenlerin bir araya gelerek çevrimiçi eğitim 
 
 Ekran Görüntüsü
 
-![](UdemigEducation.gif);
+![](UdemigEducation.gif)
 
 📧 İletişim
 
